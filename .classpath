@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="758A/src"/>
+	<classpathentry kind="src" path="Adapter/src"/>
+	<classpathentry kind="src" path="Array elements as counters/src"/>
+	<classpathentry kind="src" path="Array holding many object/src"/>
+	<classpathentry kind="src" path="Array table/src"/>
+	<classpathentry kind="src" path="Arrays in method/src"/>
+	<classpathentry kind="src" path="Arrays/src"/>
+	<classpathentry kind="src" path="averaging program/src"/>
+	<classpathentry kind="src" path="Basic calculator/src"/>
+	<classpathentry kind="src" path="Class to hold Objects/src"/>
+	<classpathentry kind="src" path="compond interest Program/src"/>
+	<classpathentry kind="src" path="conditional statement/src"/>
+	<classpathentry kind="src" path="Constructor/src"/>
+	<classpathentry kind="src" path="creating array/src"/>
+	<classpathentry kind="src" path="creating file/src"/>
+	<classpathentry kind="src" path="Display regular time/src"/>
+	<classpathentry kind="src" path="dowhile loop/src"/>
+	<classpathentry kind="src" path="Drawing Graphics/src"/>
+	<classpathentry kind="src" path="Drawing more/src"/>
+	<classpathentry kind="src" path="else if statement/src"/>
+	<classpathentry kind="src" path="enhanced for loop/src"/>
+	<classpathentry kind="src" path="enum set range/src"/>
+	<classpathentry kind="src" path="Enumeration/src"/>
+	<classpathentry kind="src" path="event handling/src"/>
+	<classpathentry kind="src" path="Exception Handling/src"/>
+	<classpathentry kind="src" path="File class/src"/>
+	<classpathentry kind="src" path="FlowLayout/src"/>
+	<classpathentry kind="src" path="Grapical User Interface/src"/>
+	<classpathentry kind="src" path="GUI With JFrame/src"/>
+	<classpathentry kind="src" path="If statement/src"/>
+	<classpathentry kind="src" path="Increament/src"/>
+	<classpathentry kind="src" path="Inheritance/src"/>
+	<classpathentry kind="src" path="input/src"/>
+	<classpathentry kind="src" path="Instance/src"/>
+	<classpathentry kind="src" path="Introduction to Polymorphism/src"/>
+	<classpathentry kind="src" path="jahid/src"/>
+	<classpathentry kind="src" path="JavaApplication1/src"/>
+	<classpathentry kind="src" path="JavaApplication61/src"/>
+	<classpathentry kind="src" path="Jbutton/src"/>
+	<classpathentry kind="src" path="jcheck Box 64-65/src"/>
+	<classpathentry kind="src" path="Jcolor/src"/>
+	<classpathentry kind="src" path="JComboBox/src"/>
+	<classpathentry kind="src" path="JLIST/src"/>
+	<classpathentry kind="src" path="Jradio 66-67/src"/>
+	<classpathentry kind="src" path="Logical operator/src"/>
+	<classpathentry kind="src" path="logical operatorf/src"/>
+	<classpathentry kind="src" path="looping/src"/>
+	<classpathentry kind="src" path="math class/src"/>
+	<classpathentry kind="src" path="Math operator/src"/>
+	<classpathentry kind="src" path="mouse events74 75 76/src"/>
+	<classpathentry kind="src" path="Multidimensional arrays/src"/>
+	<classpathentry kind="src" path="multiple class/src"/>
+	<classpathentry kind="src" path="Multiple constructor 1/src"/>
+	<classpathentry kind="src" path="multiple constructor/src"/>
+	<classpathentry kind="src" path="Multiple selection list/src"/>
+	<classpathentry kind="src" path="Nested if statement/src"/>
+	<classpathentry kind="src" path="Overriding/src"/>
+	<classpathentry excluding="parameter/" kind="src" path="parameter/src"/>
+	<classpathentry kind="src" path="parameter/src/parameter"/>
+	<classpathentry kind="src" path="parameters/src"/>
+	<classpathentry kind="src" path="Polymorphic Arguments/src"/>
+	<classpathentry kind="src" path="Public Private and this time/src"/>
+	<classpathentry kind="src" path="Random Number operator/src"/>
+	<classpathentry kind="src" path="REading from file/src"/>
+	<classpathentry kind="src" path="Simple Polymorphic program/src"/>
+	<classpathentry kind="src" path="static final/src"/>
+	<classpathentry kind="src" path="Static/src"/>
+	<classpathentry kind="src" path="Summing elements of array/src"/>
+	<classpathentry kind="src" path="switch statement/src"/>
+	<classpathentry kind="src" path="Time class/src"/>
+	<classpathentry kind="src" path="To String/src"/>
+	<classpathentry kind="src" path="variable length arguments/src"/>
+	<classpathentry kind="src" path="While loop/src"/>
+	<classpathentry kind="src" path="Writing to file/src"/>
+	<classpathentry kind="src" path="youtube.java/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="output" path="758A/build/classes"/>
+</classpath>
